@@ -31,17 +31,19 @@
 | Skill | 简介 | 技术 |
 |---|---|---|
 | [kinema-tdd-injector](https://github.com/KinemaClawWorkspace/kinema-tdd-injector) | TDD 方法论注入器，自动化生成 CLAUDE.md | `Jinja` |
+| [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | KinemaClaw Skill 开发与发布规范 | `Shell` |
 | [alist-cli](https://github.com/KinemaClawWorkspace/alist-cli) | AList API Skill，云盘文件管理工具 | `Python` |
 | [git-log-tracker](https://github.com/KinemaClawWorkspace/git-log-tracker) | Git post-commit hook + SQLite 提交索引 CLI | `Python` |
 | [searxng-search-cli](https://github.com/KinemaClawWorkspace/searxng-search-cli) | SearXNG 元搜索 Skill | `Python` |
 | [kinema-concept-research](https://github.com/KinemaClawWorkspace/kinema-concept-research) | 概念研究 / 知识检索 Skill | `Skill` |
 | [kinema-task-management](https://github.com/KinemaClawWorkspace/kinema-task-management) | AI Agent 维护的 Markdown 任务管理器 | `Shell` |
-| [kinema-skill-making-pipeline](https://github.com/KinemaClawWorkspace/kinema-skill-making-pipeline) | KinemaClaw Skill 开发与发布规范 | `Shell` |
 | [kinema-skills-marketplace](https://github.com/KinemaClawWorkspace/kinema-skills-marketplace) | 私有 Skill 集合索引 | `Index` |
 
 #### 🚧 Coming Soon 开发进行中 · 敬请期待
 - [blivedm-android](https://github.com/LeeShunEE/blivedm-android) — B 站直播弹幕 Android 客户端 `Kotlin`
-- [task-tracker](https://github.com/LeeShunEE/task-tracker) — 个人任务追踪系统
+- [task-tracker](https://github.com/LeeShunEE/task-tracker) — 个人任务追踪系统 `Next js`, `Python`
+
+> 💡 **Welcome to use Kinema's Skills for developers** — feel free to [email me](mailto:2457013396@qq.com) anytime. Let's build fast, robust and capable agents together!
 
 ### 🚀 Work Experience 项目经历
 
@@ -49,7 +51,7 @@
 **自动化广告数据分析->广告创意产出系统** `视觉理解`、`LLM Based 归因分析`
 - 多模态数据分析，语义化分析优质广告素材特点，可解释性强
 - 自动化流程，批量产出广告创意
-- Model Based Ranker
+- ML Based Ads Ranker 筛选优质素材
 
 
 #### 〇〇〇医药 - 生物统计部 (2024.12-2025.3)
@@ -85,7 +87,3 @@
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeShunEE&show_icons=true&theme=radical)](https://github.com/LeeShunEE)
-
----
-
-💡 **Welcome to use Kinema's Skills for developers** — feel free to [email me](mailto:2457013396@qq.com) anytime. Let's build fast, robust and capable agents together!
